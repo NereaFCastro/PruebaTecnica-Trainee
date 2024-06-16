@@ -3,7 +3,7 @@ const botones = document.querySelectorAll(".botones__div");
 
 const images = [
     './imgs/img1-adidas.webp',
-    './imgs/img2-nike.jpeg',
+    './imgs/img2-nike.avif',
     './imgs/img3-reebok.jpeg',
     './imgs/img4-vans.jpeg',
     './imgs/img5-northface.jpeg',
